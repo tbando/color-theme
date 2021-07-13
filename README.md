@@ -12,7 +12,7 @@ My color theme for some apps like vscode, iterm2 etc...
 | color | normal | alt | letter sample(normal) | letter sample(normal) |
 |:---:|:---:|:---:|:---:|:---:|
 |Black  | ![](https://placehold.jp/333333/cccccc/150x30.png?text=%23333333) | ![](https://placehold.jp/cccccc/191919/150x30.png?text=%23191919) |
-|Red    | ![](https://placehold.jp/ff99cc/333333/150x30.png?text=%23ff99cc) | ![](https://placehold.jp/cc99ff/333333/150x30.png?text=%23cc99ff) | ![](https://placehold.jp/191919/ff99cc/150x30.png?text=%23ff99cc) | ![](https://placehold.jp/191919/cc99ff/150x30.png?text=%23cc99ff) |
+|Red    | ![](https://placehold.jp/cc6666/333333/150x30.png?text=%23cc6666) | ![](https://placehold.jp/ff99cc/333333/150x30.png?text=%23ff99cc) | ![](https://placehold.jp/191919/cc6666/150x30.png?text=%23cc6666) | ![](https://placehold.jp/191919/ff99cc/150x30.png?text=%23ff99cc) |
 |Green  | ![](https://placehold.jp/99cc00/333333/150x30.png?text=%2399cc00) | ![](https://placehold.jp/cccc66/333333/150x30.png?text=%23cccc66) | ![](https://placehold.jp/191919/99cc00/150x30.png?text=%2399cc00) | ![](https://placehold.jp/191919/c0c86c/150x30.png?text=%23c0c86c) |
 |Yellow | ![](https://placehold.jp/ffcc66/333333/150x30.png?text=%23ffcc66) | ![](https://placehold.jp/ff9966/333333/150x30.png?text=%23ff9966) | ![](https://placehold.jp/191919/eac170/150x30.png?text=%23eac170) | ![](https://placehold.jp/191919/ec9c61/150x30.png?text=%23ec9c61) |
 |Blue   | ![](https://placehold.jp/7f99cc/333333/150x30.png?text=%237f99cc) | ![](https://placehold.jp/4c7f99/333333/150x30.png?text=%234c7f99) | ![](https://placehold.jp/191919/7f99cc/150x30.png?text=%237f99cc) | ![](https://placehold.jp/191919/4c7f99/150x30.png?text=%234c7f99) |
